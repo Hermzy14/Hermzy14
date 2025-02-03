@@ -2,7 +2,7 @@
 
 👀 I’m especially interested in front-end development and app development.
 
-🌱 I’m currently learning a lot...
+🌱 I’m currently learning React for frontend and Spring for backend.
 
 📫 How to reach me: hermanluho@gmail.com
 
